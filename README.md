@@ -23,7 +23,7 @@
 Download the files or clone the repository:
 
 ```bash
-git clone https://github.com/JeremiahHerring/OSS-API-DEMO.git
+git clone https://github.com/JeremiahHerring/OSS-API-DEMO
 cd OSS-API-DEMO
 ```
 
