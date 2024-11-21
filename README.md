@@ -45,7 +45,7 @@ source venv/bin/activate
 ---
 
 ### 3. Install Dependencies
-Install Flask (and any other required libraries):
+Install Flask:
 
 ```bash
 pip install flask
