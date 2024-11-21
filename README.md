@@ -23,8 +23,8 @@
 Download the files or clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/JeremiahHerring/OSS-API-DEMO.git
+cd OSS-API-DEMO
 ```
 
 ### 2. Create a Virtual Environment
